@@ -25,29 +25,14 @@ body{
     column-gap: 1rem;
     row-gap: 5rem;
 }
-.place1{
+.place{
     width: 400px;
     height: 500px;
     background-color: #FCA311;
     
     
 }
-.place2{
-    width: 400px;
-    height: 500px;
-    background-color: #FCA311;
-    /* margin-top: 0px;
-    margin-left: 64px;
-    margin-right: 64px; */
-}
-.place3{
-    width: 400px;
-    height: 500px;
-    background-color: #FCA311;
-    /* margin-top: 0px;
-    margin-left: 64px;
-    margin-right: 64px; */
-}
+
 .box-img{
     margin-left: 30px;
     margin-right: 30px;
